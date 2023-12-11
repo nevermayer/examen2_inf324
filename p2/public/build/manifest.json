@@ -1,0 +1,86 @@
+{
+  "resources/js/assets/img/logo.svg": {
+    "file": "assets/logo.f78fffca.svg",
+    "src": "resources/js/assets/img/logo.svg"
+  },
+  "resources/js/assets/img/platillo.svg": {
+    "file": "assets/platillo.6c1f847f.svg",
+    "src": "resources/js/assets/img/platillo.svg"
+  },
+  "resources/js/assets/img/postre.svg": {
+    "file": "assets/postre.f3ee892e.svg",
+    "src": "resources/js/assets/img/postre.svg"
+  },
+  "resources/js/assets/img/bebida.svg": {
+    "file": "assets/bebida.77cfa954.svg",
+    "src": "resources/js/assets/img/bebida.svg"
+  },
+  "resources/js/assets/logo3.png": {
+    "file": "assets/logo3.88c8c707.png",
+    "src": "resources/js/assets/logo3.png"
+  },
+  "resources/js/assets/img/slider/slider-img-1.jpg": {
+    "file": "assets/slider-img-1.391a3468.jpg",
+    "src": "resources/js/assets/img/slider/slider-img-1.jpg"
+  },
+  "resources/js/assets/header.jpg": {
+    "file": "assets/header.49865bcf.jpg",
+    "src": "resources/js/assets/header.jpg"
+  },
+  "resources/js/assets/img/slider/slider-img-2.jpg": {
+    "file": "assets/slider-img-2.0048a6b5.jpg",
+    "src": "resources/js/assets/img/slider/slider-img-2.jpg"
+  },
+  "resources/js/assets/cooker-img.png": {
+    "file": "assets/cooker-img.648d9e00.png",
+    "src": "resources/js/assets/cooker-img.png"
+  },
+  "resources/js/assets/img/slider/slider-img-3.jpg": {
+    "file": "assets/slider-img-3.e15412be.jpg",
+    "src": "resources/js/assets/img/slider/slider-img-3.jpg"
+  },
+  "resources/js/assets/img/slider/slider-img-4.jpg": {
+    "file": "assets/slider-img-4.45aafa52.jpg",
+    "src": "resources/js/assets/img/slider/slider-img-4.jpg"
+  },
+  "resources/fonts/ufonts.com_tw-cen-mt.ttf": {
+    "file": "assets/ufonts.com_tw-cen-mt.10df71ce.ttf",
+    "src": "resources/fonts/ufonts.com_tw-cen-mt.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.7c3c19f8.js",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.35a4675c.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.bd80fda5.css"
+    ],
+    "assets": [
+      "assets/header.49865bcf.jpg",
+      "assets/logo3.88c8c707.png",
+      "assets/slider-img-1.391a3468.jpg",
+      "assets/slider-img-2.0048a6b5.jpg",
+      "assets/slider-img-3.e15412be.jpg",
+      "assets/slider-img-4.45aafa52.jpg",
+      "assets/cooker-img.648d9e00.png",
+      "assets/logo.f78fffca.svg",
+      "assets/platillo.6c1f847f.svg",
+      "assets/postre.f3ee892e.svg",
+      "assets/bebida.77cfa954.svg",
+      "assets/ufonts.com_tw-cen-mt.10df71ce.ttf"
+    ]
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app.8e02c929.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.bd80fda5.css",
+    "src": "resources/js/app.css"
+  }
+}
